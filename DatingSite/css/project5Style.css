@@ -1,0 +1,82 @@
+body {
+  background: #333;
+  color: #fff;
+}
+
+.navbar {
+  border-bottom: #B61173 3px solid;
+  opacity: 0.8;
+}
+
+.navbar-brand a{
+  color: #E0335E;
+}
+
+#home-section {
+  background: url(../images/Dating.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px;
+}
+
+#home-section .dark-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 700px;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+#home-section .home-inner {
+  padding-top: 150px;
+}
+
+#home-section .card-form {
+  opacity: 0.8;
+  background-color: #B61173;
+}
+
+#home-section .fas,
+#find-section .fas {
+  color: #B61173;
+  background: #FF9800;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+#build-section .fas,
+#sustain-section .fas {
+  background: #333;
+  color: #B61173;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.biggerText {
+	font-size: 125%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
